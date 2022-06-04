@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LearnJapanese</string>
+    <string name="family_member">Family Member</string>
+    <string name="number">Number</string>
+    <string name="color">Color</string>
+    <string name="splash_screen">Splash Screen</string>
+    <string name="welcome">Welcome</string>
+</resources>

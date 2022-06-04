@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <alpha
+       android:fromAlpha="@integer/material_motion_duration_short_1"
+        android:toAlpha="@integer/material_motion_duration_medium_2"
+        >
+
+
+    </alpha>
+</set>

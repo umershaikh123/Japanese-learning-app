@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LearnJapanese/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LearnJapanese/app/src/main/res/layout/activity_splash_screen.xml" value="0.33" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LearnJapanese/app/src/main/res/layout/color_list.xml" value="0.3179347826086957" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LearnJapanese/app/src/main/res/layout/family_list.xml" value="0.3179347826086957" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LearnJapanese/app/src/main/res/layout/fragment_colors.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LearnJapanese/app/src/main/res/layout/fragment_family.xml" value="0.3179347826086957" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LearnJapanese/app/src/main/res/layout/fragment_numbers.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LearnJapanese/app/src/main/res/layout/numbers_list.xml" value="0.24682971014492755" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
