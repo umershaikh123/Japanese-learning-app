@@ -1,5 +1,18 @@
 # Japanese-learning-app
 
+## Overview of the App
+A japanese language learning app that shows japanese translation of numbers , family members and colors.We can add much more to this app
+
+## Features used
+#### Listview and Custom Adapter
+#### Multiple Fragments for each screen 
+#### View page Adapter to swipe between the Fragments with Tab layout 
+#### Splash screen with animations 
+
+
+
+
+
 ## Splash Screen
 <p align="center">
 <img src= "https://lh3.googleusercontent.com/WJqQl2XVWl4nGO7yRQB3BZGEltf9OE-S2mXOPAF-kYvA8RMdVoXGNWBKJ16trzUN5m6uFEaB9X2xfF2bR8MazEusC1MRCW0MAVnxgyq_hDEKL_7qeA2eGvgLaQLoYC1rZnHiVmB2eQ=w2400" />
